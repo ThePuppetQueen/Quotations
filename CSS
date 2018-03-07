@@ -1,0 +1,45 @@
+
+#colorfulQuotes{
+  margin: 25px 50px 75px 60px;
+}
+#Sidenav a {
+    position: absolute;
+    left: -80;
+    top: -40px;
+    transition: 0.3s;
+  padding: 20px;
+  width: 55px;
+  text-decoration: none;
+  font-size: 20px;
+  color: white;
+  border-radius: 5px 5px 5px 5px;
+  
+}
+#Sidenav a:hover {
+  top:0;
+}
+#Random { 
+  left:0;
+background-color:Red;
+}
+#ByAuthor {
+  left:80px;
+  background-color:Orange;
+}
+#Peaceful {
+  
+  background-color:Yellow;
+  left:160px;
+}
+#movies {
+  left: 240px;
+ background-color: green;
+}
+#Books {
+  left:320px;
+  background-color: blue;
+}
+#Famous {
+  left:400px;
+  background-color: purple;
+}
